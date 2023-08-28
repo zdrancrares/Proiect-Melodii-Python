@@ -1,0 +1,6 @@
+artist2,titlu1,10.04.1415,Pop
+artist5,titlu3,09.10.1760,Jazz
+artist1,titlu3,04.06.1808,Rock
+artist3,titlu3,08.10.1830,Jazz
+artist1,titlu1,02.09.1911,Jazz
+abc,melodie1,05.07.2022,Pop

@@ -1,0 +1,6 @@
+melodie1;abc;Jazz;07.07.2022
+titlu1;artist2;Pop;10.04.1415
+titlu3;artist5;Jazz;09.10.1760
+titlu3;artist1;Rock;04.06.1808
+titlu1;artist1;Jazz;02.09.1911
+titlu3;artist3;Rock;10.10.1800

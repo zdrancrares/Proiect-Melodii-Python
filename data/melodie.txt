@@ -1,0 +1,14 @@
+melodie1;abc;Rock;12.12.2022
+titlu1;artist2;Pop;12.12.2012
+titlu3;artist5;Jazz;09.10.1760
+titlu3;artist1;Rock;04.06.1808
+titlu1;artist1;Jazz;02.09.1911
+titlu3;artist3;Pop;02.02.2019
+titlu3000;artist6000;Rock;20.12.2019
+titlu1000;artisti7000;Jazz;27.04.1610
+titlu2000;artisti7000;Jazz;04.07.1021
+titlu2000;artist5000;Jazz;15.01.1003
+titlu3000;artisti7000;Jazz;08.02.1068
+titlu9999;artist235254;Rock;20.03.1920
+titlu88888;artist12212;Rock;13.04.1556
+titlu9999;artist235254;Jazz;08.05.1501

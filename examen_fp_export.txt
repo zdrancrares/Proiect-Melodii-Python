@@ -1,0 +1,14 @@
+artist5000,titlu2000,15.01.1003,Jazz
+artisti7000,titlu2000,04.07.1021,Jazz
+artisti7000,titlu3000,08.02.1068,Jazz
+artist235254,titlu9999,08.05.1501,Jazz
+artist12212,titlu88888,13.04.1556,Rock
+artisti7000,titlu1000,27.04.1610,Jazz
+artist5,titlu3,09.10.1760,Jazz
+artist1,titlu3,04.06.1808,Rock
+artist3,titlu3,08.10.1830,Jazz
+artist1,titlu1,02.09.1911,Jazz
+artist235254,titlu9999,20.03.1920,Rock
+artist2,titlu1,12.12.2012,Pop
+artist6000,titlu3000,20.12.2019,Rock
+abc,melodie1,12.12.2022,Rock
